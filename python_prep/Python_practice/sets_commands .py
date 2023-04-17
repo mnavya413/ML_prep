@@ -1,0 +1,13 @@
+add
+update
+remove
+discard
+pop
+clear
+union
+intersection
+difference
+symmetric_difference
+issubset
+issuperset
+isdisjoint
