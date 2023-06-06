@@ -1,0 +1,4 @@
+"The sky is blue."
+"Today is a beautiful day."
+"I love programming."
+"Coffee is my favorite drink."
